@@ -20,10 +20,10 @@ public class AmazonSESSample {
     static final String TO = "rajatpandey7800@gmail.com";
     
     // Replace smtp_username with your Amazon SES SMTP user name.
-    static final String SMTP_USERNAME = "AKIAVDEYBXAEAL4JZBRP";
+    static final String SMTP_USERNAME = "";
     
     // Replace smtp_password with your Amazon SES SMTP password.
-    static final String SMTP_PASSWORD = "BMU2yI+QlnLMUbbN9dbRa/GXi7c+2WKF6OcoqGIdV7GJ";
+    static final String SMTP_PASSWORD = "";
     
     // The name of the Configuration Set to use for this message.
     // If you comment out or remove this variable, you will also need to
